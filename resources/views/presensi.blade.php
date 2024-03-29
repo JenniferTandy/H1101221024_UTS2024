@@ -311,7 +311,9 @@
                                     2013/03/03
                                 </td>
                                 <td class="text-center">
-                                    <span class="label label-danger">Banned</span>
+                                    <span class="label label-danger">Izin
+
+                                    </span>
                                 </td>
                                 <td>
                                     <a href="#">jack@nicholson</a>
@@ -347,7 +349,7 @@
                                     2004/01/24
                                 </td>
                                 <td class="text-center">
-                                    <span class="label label-warning">Pending</span>
+                                    <span class="label label-warning">Sakit</span>
                                 </td>
                                 <td>
                                     <a href="#"><span class="__cf_email__" data-cfemail="523a273f223a20372b12303d353320267c313d3f">[email&#160;protected]</span></a>
@@ -491,7 +493,9 @@
                                     2013/03/03
                                 </td>
                                 <td class="text-center">
-                                    <span class="label label-danger">Banned</span>
+                                    <span class="label label-danger">Izin
+
+                                    </span>
                                 </td>
                                 <td>
                                     <a href="#">jack@nicholson</a>
@@ -527,7 +531,7 @@
                                     2004/01/24
                                 </td>
                                 <td class="text-center">
-                                    <span class="label label-warning">Pending</span>
+                                    <span class="label label-warning">Sakit</span>
                                 </td>
                                 <td>
                                     <a href="#"><span class="__cf_email__" data-cfemail="3058455d405842554970525f575142441e535f5d">[email&#160;protected]</span></a>
